@@ -21,3 +21,6 @@
 - Doure o alho no azeide e acrescente o filé de peito de frango cortado em cubos para refogar.
 - Acrescente cebola e o tomate picados e uma folha de louro e deixe cozinhar por cerca de 10 minutos.
 - Após isso, acrescente o que foi batido no liquidificador e misture bem, acrescente sal a gosto. Cozinhe mais 5 minutos e está pronto.
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)
