@@ -12,14 +12,6 @@
 3. Asse até dourar, depois vire e asse o outro lado.
 
 
-## Tempo de preparo
-40 minutos
-
-
-## Dica
-Sirva com farofa e vinagrete.
-
-
 [Voltar à Categoria](.)
 [Voltar ao Menu Principal](../menu.md)
 
