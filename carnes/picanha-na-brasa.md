@@ -11,7 +11,7 @@
 2. Leve à grelha com o lado da gordura para cima.
 3. Asse até dourar, depois vire e asse o outro lado.
 
+---
 
-[Voltar à Categoria](.)
+[Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)
-
