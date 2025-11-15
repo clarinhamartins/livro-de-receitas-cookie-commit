@@ -1,7 +1,7 @@
 # Massa de Ravioli
 
 ## Ingredientes
- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo
 - 3 ovos
 - 1 colher (sopa) de azeite de oliva
 - 1 pitada de sal
