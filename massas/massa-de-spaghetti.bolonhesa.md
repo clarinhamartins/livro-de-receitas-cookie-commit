@@ -1,4 +1,4 @@
-# Massa da Spaghetti a Bolonhesa
+# Massa de Spaghetti a Bolonhesa
 
 ## Ingredientes
 - 500 g de espaguete
