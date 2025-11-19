@@ -1,6 +1,14 @@
 # Bife à Rolê
 
 ## Ingredientes
+- 8 bifes passados na máquina ou batidos com o martelo (contra filé ou alcatra)
+- Fatias finas de bacon
+- Fatias finas de pimentão verde
+- Fatias de cebola
+- Fatias finas de cenoura
+- Tempero para o bife a gosto
+- Palitos de dente para prender os bifes
+- Molho de tomate
 
 ## Modo de Preparo
 1. Tempere os bifes como preferir e espere meia hora para pegar o tempero
@@ -11,5 +19,10 @@
 
 ---
 
+<<<<<<< HEAD:carnes/bife-a-role.md
 [Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)
+=======
+[Voltar à Categoria](.)
+[Voltar ao Menu Principal](../menu.md)
+>>>>>>> b5815d9622c4df53842586c6f11b3eb759abe0fb:carnes/Bife-a-role.md
