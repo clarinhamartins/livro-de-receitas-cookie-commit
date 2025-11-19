@@ -1,7 +1,6 @@
 # Sopa Cremosa de Frango
 
 ## Ingredientes
-
 - 2 filé de peito de frango
 - 2 cenouras médias
 - 2 batatas médias

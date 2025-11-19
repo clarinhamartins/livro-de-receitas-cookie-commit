@@ -36,24 +36,23 @@ Criar um livro digital de receitas organizado em categorias, onde cada integrant
 ├── CONTRIBUTING.md
 ├── menu.md
 ├── carnes/
-│ ├── bife-a-role.md
-│ ├── paleta-bovina-ao-molho.md
-│ └── picanha-na-brasa.md
+│   ├── bife-a-role.md
+│   ├── paleta-bovina-ao-molho.md
+│   └── picanha-na-brasa.md
 ├── massas/
-│ ├── massa-ravioli.md
-│ ├── massa-spaghetti.md
-│ └── massa-spaghetti-a-bolonhesa.md
+│   ├── massa-ravioli.md
+│   ├── massa-spaghetti.md
+│   └── massa-spaghetti-a-bolonhesa.md
 ├── saladas/
-│ ├── salada-caesar.md
-│ ├── salada-de-frango-com-maionese.md
-│ └── salada-grega.md
+│   ├── salada-caesar.md
+│   ├── salada-de-frango-com-maionese.md
+│   └── salada-grega.md
 ├── sopas/
-│ ├── sopa-cremosa-de-frango.md
-│ └── sopa-de-legumes-caseira.md
+│   ├── sopa-cremosa-de-frango.md
+│   └── sopa-de-legumes-caseira.md
 └── sobremesas/
-│ └── bolo-de-laranja.md
-│ └── pudim-de-leite-condensado.md
-└──
+    ├── bolo-de-laranja.md
+    └── pudim-de-leite-condensado.md
 
 ---
 

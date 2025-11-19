@@ -1,7 +1,6 @@
 # Bolo de laranja
 
 ## Ingredientes
-
 - 4 ovos
 - 2 xícaras (chá) de açúcar
 - 1 xícara (chá) de óleo
@@ -15,7 +14,6 @@
 - 1 colher (sopa) de fermento
 
 ## Modo de Preparo
-
 1. Em uma tigela, bata os ovos com o açúcar até obter um creme claro e fofo.
 2. Adicione o óleo, o suco e a casca de laranja, misturando bem.
 3. Incorpore a farinha de trigo e o fermento, mexendo delicadamente até a massa ficar homogênea.
