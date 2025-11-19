@@ -11,7 +11,6 @@
 - Pimenta-do-reino a gosto (opcional)
 - pimenta-do-reino a gosto (opcional)
 
-
 ## Modo de Preparo
 
 ---
