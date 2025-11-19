@@ -26,7 +26,7 @@ Criar um livro digital de receitas organizado em categorias, onde cada integrant
 - Francisco Mailson da Silva Sousa — @MailsonSousa88  
 - Mateus de Araujo — @larrySkeleton2017  
 - Rikelry Monteiro Souza — @Rikelry  
-- Vitor Lopes da Silva — @Vcoder-00
+- Vitor Lopes da Silva — @Vcoder-00  
 
 ---
 
