@@ -1,41 +1,29 @@
-Ingredientes
+# Sopa Cremosa de Batata com Bacon
 
-1 colher (sopa) de manteiga ou óleo
+## Ingredientes
+- 2 batatas grandes  
+- 1 cebola média  
+- 2 dentes de alho amassados  
+- 100 g de bacon picado  
+- 1 colher (sopa) de manteiga  
+- 700 ml de água ou caldo de legumes  
+- 1/2 xícara de creme de leite (opcional)  
+- Salsinha ou coentro picado  
+- Sal a gosto  
+- Pimenta-do-reino a gosto  
 
-1 cebola pequena picada
+## Método de preparo
 
-2 dentes de alho picados
+1. Cozinhe as batatas cortadas em cubos na água por cerca de 15 minutos, até ficarem bem macias.  
+2. Desligue o fogo e bata tudo no liquidificador até formar um creme liso; reserve.  
+3. Em uma panela, frite o bacon até ficar dourado e crocante; retire e reserve.  
+4. Na mesma panela com a gordura do bacon, adicione a manteiga, doure o alho e refogue a cebola picada por 2 minutos.  
+5. Acrescente o creme de batata reservado, misture bem e cozinhe por 5 minutos.  
+6. Junte o creme de leite (se usar), ajuste o sal e a pimenta.  
+7. Finalize com o bacon crocante e salsinha ou coentro picado por cima.
 
-1 lata de milho (com a água) ou 2 espigas
+---
 
-2 batatas médias picadas
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)
 
-1 litro de água quente ou caldo de legumes
-
-100 g de bacon picado
-
-1/2 xícara de creme de leite (opcional, deixa mais cremosa)
-
-Sal e pimenta-do-reino a gosto
-
-Cheiro-verde para finalizar
-
-Modo de Preparo
-
-Em uma panela, frite o bacon até dourar. Retire e reserve.
-
-Na gordura do bacon, refogue a cebola e o alho até ficarem dourados.
-
-Adicione o milho e as batatas, misturando por 1–2 minutos.
-
-Coloque a água ou caldo quente e cozinhe por cerca de 15–20 minutos, até as batatas ficarem macias.
-
-Bata metade da sopa no liquidificador e volte para a panela (isso deixa ela mais cremosa).
-
-Acrescente o creme de leite (se usar), ajuste sal e pimenta.
-
-Finalize com o bacon crocante e cheiro-verde por cima.
-
-Voltar à Categoria
-
-Voltar ao Menu Principal
