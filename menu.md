@@ -30,3 +30,4 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet, aplicando na p
 - [Pudim de leite condensado](sobremesas/pudim-de-leite-condensado.md)
 - [Sopa cremosa de frango](sopas/sopa-cremosa-de-frango.md)
 - [Sopa de legumes caseira](sopas/sopa-de-legumes-caseira.md)
+- [Sopa cremosa de milho com bacon](sopas/Sopa-cremosa-de-milho-com-bacon.md)
