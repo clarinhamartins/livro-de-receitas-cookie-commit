@@ -23,6 +23,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Byte Gourmet, aplicando na p
 - [Massa de ravioli](massas/massa-ravioli.md)
 - [Massa de spaghetti](massas/massa-spaghetti.md)
 - [Massa de spaghetti a bolonhesa](massas/massa-de-spaghetti-a-bolonhesa.md)
+- [Massa Carbonara](massas/massa-carbonara.md)
 - [Salada caesar](saladas/salada-caesar.md)
 - [salada de frango com maionese](saladas/salada-de-frango-com-maionese.md)
 - [Salada grega](saladas/salada-grega.md)
